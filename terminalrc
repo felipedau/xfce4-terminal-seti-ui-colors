@@ -1,0 +1,10 @@
+[Configuration]
+ColorCursor=#727272
+ColorForeground=#d4d7d6
+ColorBackground=#151718
+ColorPalette=#060708;#cd3f45;#9fca56;#b8a454;#4491af;#b86f96;#805d9d;#41535b;#0e1112;#f64c53;#bff267;#e6cd69;#55b5db;#e68bbc;#a074c4;#ffffff
+ColorSelectionUseDefault=FALSE
+ColorSelection=#3b758c
+ColorBoldUseDefault=FALSE
+ColorBold=#d4d7d6
+TabActivityColor=#a43237
